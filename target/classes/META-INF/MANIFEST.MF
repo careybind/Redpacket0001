@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Redpacket
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: carey
+Implementation-Vendor-Id: com.bind.spring.redpacket
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/Redpacket/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
